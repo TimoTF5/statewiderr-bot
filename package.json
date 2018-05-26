@@ -1,0 +1,19 @@
+{
+  "name": "SSR - Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Nismo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1",
+    "nodemon": "^1.17.4",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0"
+  }
+}
